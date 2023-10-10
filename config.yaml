@@ -250,7 +250,7 @@ params:
         image: images/unirage.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://unirage.co.jp/
         badges:
           - "WordPress"
           - "PHP"
